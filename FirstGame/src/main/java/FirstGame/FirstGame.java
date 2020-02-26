@@ -6,7 +6,6 @@ import java.util.Scanner;
 public class FirstGame {
     public static void main(String[] args) {
         Random random = new Random();
-
         int num = random.nextInt(100) + 1;
         int i = 1;
         Scanner sc = new Scanner(System.in);
