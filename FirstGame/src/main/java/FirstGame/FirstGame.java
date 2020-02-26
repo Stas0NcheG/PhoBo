@@ -2,7 +2,6 @@ package FirstGame;
 
 import java.util.Random;
 import java.util.Scanner;
-
 public class FirstGame {
     public static void main(String[] args) {
         Random random = new Random();
