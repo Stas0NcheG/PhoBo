@@ -1,5 +1,4 @@
 package FirstGame;
-
 import java.util.Scanner;
 
 public class SecondGame {

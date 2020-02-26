@@ -11,15 +11,14 @@ public class Matrix {
         int b = 0;
         int c = 0;
         int n = a.length;
-//        System.out.println(n);
         for (int i = 0; i < n; ++i) {
                 b += a[i][i];
                 s += a[i] [n-1-i];
             }
             c = b + s;
             System.out.println(s);
-            System.out.println(b);
-            System.out.println(c);
+                System.out.println(b);
+                    System.out.println(c);
         }
     }
 
